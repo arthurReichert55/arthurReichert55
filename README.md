@@ -1,10 +1,4 @@
-## 
 
-- 🔭 Hoje sou estudante de informática
-- 🌱 Brasil/SC
-- 📫 contate-me no email : bmoderador528@gmail.com
-- 😄 Pronouns: ele/dele
--->
 
 <div align="center">
 
@@ -18,60 +12,13 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-8A2BE2?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/LEVEL-DEVELOPER-8A2BE2?style=for-the-badge&labelColor=000000" />
 
-<div align="center">
+- 🔭 Hoje sou estudante de informática
+- 🌱 Brasil/SC
+- 📫 contate-me no email : bmoderador528@gmail.com
+- 😄 Pronouns: ele/dele
+-->
 
-<table>
-<tr>
-
-<td>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td style="background-color:#000000; border:2px solid #A855F7; border-radius:10px; padding:20px; color:#A855F7;">
-
-<h3 style="color:#A855F7;">REICHERT.exe</h3>
-
-<pre style="color:#A855F7; background-color:#000000;">
-╔══════════════════════╗
-║   REICHERT.exe        ║
-╠══════════════════════╣
-║                      ║
-║  STATUS : ONLINE     ║
-║  MODE   : GAMER      ║
-║  MISSION: CREATE     ║
-║                      ║
-╚══════════════════════╝
-</pre>
-
-</td>
-
-<td style="background-color:#000000; border:2px solid #A855F7; border-radius:10px; padding:20px; color:#A855F7;">
-
-<h3 style="color:#A855F7;">REICHERT // SKILLS</h3>
-
-<pre style="color:#A855F7; background-color:#000000;">
-╔══════════════════════╗
-║   TECHNOLOGIES       ║
-╠══════════════════════╣
-║                      ║
-║  🎮 C#               ║
-║  ⚙️ C++              ║
-║  🌐 HTML             ║
-║                      ║
-║  STATUS : ACTIVE     ║
-╚══════════════════════╝
-</pre>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
+https://github.com/anuraghazra/github-readme-stats
 
 
 
