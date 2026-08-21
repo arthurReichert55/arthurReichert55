@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="60%" src="https://usagif.com/wp-content/uploads/gif/outerspace-51.gif"/>
+<img width="270%" height="220px"  src="https://usagif.com/wp-content/uploads/gif/outerspace-51.gif"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=%3E+WELCOME+TO+MY+GITHUB_%3B%3E+REICHERT+ONLINE_%3B%3E+GAME+%2F%2F+CODE+%2F%2F+CREATE_" alt="Typing SVG"/>
 
