@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://usagif.com/wp-content/uploads/gif/outerspace-51.gif"/>
+<img width="60%" src="https://usagif.com/wp-content/uploads/gif/outerspace-51.gif"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=%3E+WELCOME+TO+MY+GITHUB_%3B%3E+REICHERT+ONLINE_%3B%3E+GAME+%2F%2F+CODE+%2F%2F+CREATE_" alt="Typing SVG"/>
 
@@ -18,7 +18,7 @@
 - 😄 Pronouns: ele/dele
 -->
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=arthur&bg_color=000000&color=a855f7&line=9333ea&point=c084fc&area=true&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurreichert&bg_color=000000&color=a855f7&line=9333ea&point=c084fc&area=true&hide_border=true)
 
 
 <p align="center">
