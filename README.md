@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=180&section=header&text=REICHERT&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://usagif.com/wp-content/uploads/gif/outerspace-51.gif"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=%3E+WELCOME+TO+MY+GITHUB_%3B%3E+REICHERT+ONLINE_%3B%3E+GAME+%2F%2F+CODE+%2F%2F+CREATE_" alt="Typing SVG"/>
 
@@ -18,7 +18,9 @@
 - 😄 Pronouns: ele/dele
 -->
 
-https://github.com/anuraghazra/github-readme-stats
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=arthur&bg_color=000000&color=a855f7&line=9333ea&point=c084fc&area=true&hide_border=true)
 
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hookr4kk&theme=github_dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&chart_color=ffffff&border_color=ffffff" width="48%" />
 
